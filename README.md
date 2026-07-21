@@ -327,26 +327,6 @@ Monitoring Completed Successfully
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after completing the project.
-
-```text
-screenshots/
-
-dashboard.png
-
-cpu-monitor.png
-
-memory-monitor.png
-
-disk-monitor.png
-
-report.png
-```
-
----
-
 # 🎓 Learning Outcomes
 
 This project strengthened my understanding of:
