@@ -5,6 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
 ![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-121011?style=for-the-badge\&logo=gnu-bash)
 ![System Monitoring](https://img.shields.io/badge/System-Monitoring-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Bash_Script-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
