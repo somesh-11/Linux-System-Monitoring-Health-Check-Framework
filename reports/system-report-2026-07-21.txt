@@ -1,0 +1,55 @@
+==========================================================
+         Linux System Monitoring Report
+==========================================================
+Generated On : 2026-07-21 09:23:13
+
+Hostname
+Somesz
+
+Kernel Version
+6.18.33.1-microsoft-standard-WSL2
+
+System Uptime
+ 09:23:21 up  2:19,  1 user,  load average: 0.19, 0.05, 0.01
+
+CPU Information
+Model name:                              AMD Ryzen 3 7320U with Radeon Graphics
+
+Memory
+               total        used        free      shared  buff/cache   available
+Mem:           3.5Gi       499Mi       2.8Gi       3.8Mi       259Mi       3.0Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+Disk
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.8G     0  1.8G   0% /usr/lib/modules/6.18.33.1-microsoft-standard-WSL2
+none            1.8G  4.0K  1.8G   1% /mnt/wsl
+drivers         137G   98G   40G  72% /usr/lib/wsl/drivers
+/dev/sdd       1007G  2.9G  953G   1% /
+none            1.8G   36K  1.8G   1% /mnt/wslg
+none            1.8G     0  1.8G   0% /usr/lib/wsl/lib
+rootfs          1.8G  2.8M  1.8G   1% /init
+none            1.8G  828K  1.8G   1% /run
+none            1.8G     0  1.8G   0% /run/lock
+none            1.8G     0  1.8G   0% /run/shm
+none            1.8G  100K  1.8G   1% /mnt/wslg/versions.txt
+none            1.8G  100K  1.8G   1% /mnt/wslg/doc
+C:\             137G   98G   40G  72% /mnt/c
+D:\             9.6G   91M  9.5G   1% /mnt/d
+tmpfs           1.8G     0  1.8G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+snapfuse         56M   56M     0 100% /snap/core18/2999
+snapfuse        128K  128K     0 100% /snap/bare/5
+snapfuse         92M   92M     0 100% /snap/gtk-common-themes/1535
+snapfuse        219M  219M     0 100% /snap/gnome-3-34-1804/93
+snapfuse         51M   51M     0 100% /snap/snapd/27406
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           357M   12K  357M   1% /run/user/1000
+
+Network
+172.31.207.51 
+
+Logged-in Users
+
+==========================================================
